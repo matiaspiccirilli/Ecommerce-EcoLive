@@ -1,6 +1,6 @@
 # Ecolive E-commerce
 
-Welcome to the **Ecolive E-commerce** repository! 🌿
+Welcome to the **Ecolive E-commerce** repository! 🌿🌿
 
 ## About
 
